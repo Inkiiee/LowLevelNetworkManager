@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>interface_search.qml</file>
+        <file>home.qml</file>
+        <file>capture.qml</file>
+        <file>defaultPage.qml</file>
+        <file>show_vals.qml</file>
+        <file>icons/pause_icon.png</file>
+        <file>icons/play_icon.png</file>
+        <file>icons/remove_icon.png</file>
+        <file>capture_detail_info.qml</file>
+        <file>arp_spoofing.qml</file>
+        <file>ping.qml</file>
+        <file>dns_spoofing.qml</file>
+    </qresource>
+</RCC>
